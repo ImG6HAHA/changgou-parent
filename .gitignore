@@ -1,0 +1,20 @@
+# Project exclude paths
+/changgou-common/target/
+/changgou-eureka/target/
+/changgou-gateway/changgou-gateway-web/target/
+/changgou-service/changgou-service-canal/target/
+/changgou-service/changgou-service-content/target/
+/changgou-service/changgou-service-goods/target/
+/changgou-service/changgou-service-order/target/
+/changgou-service/changgou-service-search/target/
+/changgou-service/changgou-service-user/target/
+/changgou-service-api/changgou-service-content-api/target/
+/changgou-service-api/changgou-service-goods-api/target/
+/changgou-service-api/changgou-service-order-api/target/
+/changgou-service-api/changgou-service-search-api/target/
+/changgou-service-api/changgou-service-user-api/target/
+/changgou-user-oauth/target/
+# Project exclude paths
+/changgou-service/changgou-service-pay/target/
+/changgou-service/changgou-service-seckill/target/
+/changgou-service-api/changgou-service-seckill-api/target/
